@@ -1,0 +1,28 @@
+[
+    [{
+            "x": 0,
+            "y": 0,
+            "status": 1,
+            "nextStatus": 0
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "status": 0,
+            "nextStatus": 0
+        }
+    ],
+    [{
+            "x": 0,
+            "y": 1,
+            "status": 0,
+            "nextStatus": 0
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "status": 1,
+            "nextStatus": 1
+        }
+    ]
+]
